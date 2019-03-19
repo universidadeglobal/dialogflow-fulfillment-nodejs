@@ -1,8 +1,8 @@
 {
-  "name": "dialogflow-fulfillment",
+  "name": "dialogflow-fulfillment-brasil",
   "description": "Dialogflow Fulfillment Library for Node.js",
   "main": "src/dialogflow-fulfillment.js",
-  "version": "0.6.2",
+  "version": "0.6.1",
   "license": "Apache-2.0",
   "author": "Google Inc.",
   "directories": {
